@@ -5,9 +5,7 @@
 </p>
 
 # Aline Yumi 
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
-
-A dentist becoming a data scientist
+<sub>A dentist becoming a data scientist</sub>
 
 My credentials include a destistry graduation from Universidade de São Paulo (USP), an institution of higher education and advanced research rated as one of the top and most prestigious dentistry universities in the world, and specialization course in orthodontic from Grupo ADOCI.
 
