@@ -14,7 +14,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/aline-yumi-uezono-03559b24)
 * [Medium](https://www.medium.com)
 
 
