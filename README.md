@@ -7,7 +7,7 @@
 # Aline Yumi 
 <sub>A dentist becoming a data scientist</sub>
 
-My credentials include a dentistry graduation from Universidade de São Paulo (USP), an institution of higher education and advanced research rated as one of the top and most prestigious dentistry universities in the world, and specialization course in orthodontic from Grupo ADOCI.
+My credentials include a dentistry graduation from Universidade de São Paulo (USP), an institution of higher education and advanced research rated as one of the top and most prestigious dentistry universities in the world, and specialization course in orthodontic from Grupo ADOCI. Now I’m expanding horizons and learning Python!
 
 **Background in:** Python
 
