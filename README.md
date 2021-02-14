@@ -7,7 +7,7 @@
 # Aline Yumi 
 <sub>A dentist becoming a data scientist</sub>
 
-My credentials include a dentistry graduation from Universidade de São Paulo (USP), an institution of higher education and advanced research rated as one of the top and most prestigious dentistry universities in the world, and specialization course in orthodontic from Grupo ADOCI. Now I’m expanding horizons and learning Python!
+My credentials include a dentistry graduation from Universidade de São Paulo (USP), an institution of higher education and advanced research, and specialization course in orthodontic from Grupo ADOCI. Now I’m expanding horizons and learning Python!
 
 **Background in:** Python
 
@@ -17,15 +17,11 @@ My credentials include a dentistry graduation from Universidade de São Paulo (U
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja meus tutoriais:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Como criar uma Wordcloud em Python:** https://bit.ly/2N6UaQ3
+
+
 
 ---
 
