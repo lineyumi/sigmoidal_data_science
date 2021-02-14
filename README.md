@@ -9,7 +9,6 @@
 
 My credentials include a dentistry graduation from Universidade de São Paulo (USP), an institution of higher education and advanced research, and specialization course in orthodontic from Grupo ADOCI. Now I’m expanding horizons and learning Python!
 
-**Background in:** Python
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/aline-yumi-uezono-03559b24)
@@ -20,6 +19,10 @@ My credentials include a dentistry graduation from Universidade de São Paulo (U
 Veja meus tutoriais:
 
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2N6UaQ3
+* **Acessando arquivos do Google Drive no Google colab:** https://bit.ly/3b2VlI3
+* **Pandas Profiling:** https://bit.ly/3ai0qwW
+
+
 
 
 
