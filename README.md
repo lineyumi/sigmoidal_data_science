@@ -21,6 +21,7 @@ Veja meus tutoriais:
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2N6UaQ3
 * **Acessando arquivos do Google Drive no Google colab:** https://bit.ly/3b2VlI3
 * **Pandas Profiling:** https://bit.ly/3ai0qwW
+* **Airbnb Data Analysis - Toronto** https://bityli.com/M9vDg
 
 
 
